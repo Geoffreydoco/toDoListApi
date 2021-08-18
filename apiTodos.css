@@ -1,0 +1,38 @@
+.post{
+    border: 10px solid rgb(87, 24, 24);
+    margin: 8px;
+    padding-left: 5px;    
+      
+}
+.taskdone {
+    background-color: rgb(35, 212, 35);
+}
+.tasktodo {
+    background-color: rgb(240, 49, 49);
+}
+.content{
+    display: none;
+}
+.header{
+    text-align: center;
+    font-size: 30px;
+    border: 10px solid cyan;
+    border-radius: 14px;
+}
+.post, .header {
+    margin-left: 15%;
+    margin-right: 15%;
+    
+}
+.buttonbox{    
+    text-align: center;
+}
+button {margin-left: 30px}
+
+#myInput {     
+    font-size: 16px; /* Increase font-size */
+    padding: 12px 20px 12px 40px; /* Add some padding */  
+    
+  }
+
+  
